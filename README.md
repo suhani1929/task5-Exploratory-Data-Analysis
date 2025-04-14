@@ -7,7 +7,7 @@
 To explore the Titanic dataset and identify factors that influenced passenger survival using data cleaning, visualization, and statistical techniques.
 
 
-## 🧾 What We Did
+## 🧾 What I Did
 
 Handled missing values (Age, Embarked, Cabin)
 
