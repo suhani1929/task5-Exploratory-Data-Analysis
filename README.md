@@ -2,12 +2,12 @@
 
 # Titanic Dataset - Exploratory Data Analysis (EDA)
 
-📌 Objective
+## 📌 Objective
 
 To explore the Titanic dataset and identify factors that influenced passenger survival using data cleaning, visualization, and statistical techniques.
 
 
-🧾 What We Did
+## 🧾 What We Did
 
 Handled missing values (Age, Embarked, Cabin)
 
@@ -18,7 +18,7 @@ Used visualizations (bar plots, boxplots, scatterplots, heatmaps, pairplots)
 Summarized survival patterns across gender, class, age, and fare
 
 
-🗂️ Dataset Info
+## 🗂️ Dataset Info
 
 📦 Name: Titanic - Machine Learning from Disaster
 
@@ -40,7 +40,7 @@ Embarked: Filled with mode
 Cabin: Dropped due to sparsity
 
 
-🔍 Key Insights
+## 🔍 Key Insights
 
 Gender: Females had much higher survival rates
 
@@ -51,11 +51,11 @@ Fare: Higher fare → higher chance of survival
 Age: Younger passengers, especially children, had better odds
 
 
-🧠 Conclusion
+## 🧠 Conclusion
 
 Survival was significantly influenced by gender, class, and fare, revealing socio-economic patterns in the tragedy. These features can be vital for building predictive models.
 
-💻 Project Files
+## 💻 Project Files
 
 📓 Jupyter Notebook – titanic_eda_final.ipynb
 
