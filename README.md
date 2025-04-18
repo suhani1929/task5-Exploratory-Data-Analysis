@@ -1,6 +1,6 @@
 # task5-Exploratory-Data-Analysis
 
-# Titanic Dataset - Exploratory Data Analysis (EDA)
+## Titanic Dataset - Exploratory Data Analysis (EDA)
 
 ## 📌 Objective
 
@@ -9,13 +9,13 @@ To explore the Titanic dataset and identify factors that influenced passenger su
 
 ## 🧾 What I Did
 
-Handled missing values (Age, Embarked, Cabin)
+- Handled missing values (Age, Embarked, Cabin)
 
-Conducted univariate, bivariate, and multivariate analysis
+- Conducted univariate, bivariate, and multivariate analysis
 
-Used visualizations (bar plots, boxplots, scatterplots, heatmaps, pairplots)
+- Used visualizations (bar plots, boxplots, scatterplots, heatmaps, pairplots)
 
-Summarized survival patterns across gender, class, age, and fare
+- Summarized survival patterns across gender, class, age, and fare
 
 
 ## 🗂️ Dataset Info
@@ -24,31 +24,31 @@ Summarized survival patterns across gender, class, age, and fare
 
 📁 Source: Kaggle Titanic Dataset
 
-Rows: 891
+- Rows: 891
 
-Columns: 12
+- Columns: 12
 
-Main Features:
-Survived, Pclass, Sex, Age, SibSp, Parch, Fare, Embarked
+- Main Features:
+   - Survived, Pclass, Sex, Age, SibSp, Parch, Fare, Embarked
 
-Missing Values:
+- Missing Values:
 
-Age: Filled with median
+   - Age: Filled with median
 
-Embarked: Filled with mode
+   - Embarked: Filled with mode
 
-Cabin: Dropped due to sparsity
+   - Cabin: Dropped due to sparsity
 
 
 ## 🔍 Key Insights
 
-Gender: Females had much higher survival rates
+- Gender: Females had much higher survival rates
 
-Class: 1st class passengers survived more
+- Class: 1st class passengers survived more
 
-Fare: Higher fare → higher chance of survival
+- Fare: Higher fare → higher chance of survival
 
-Age: Younger passengers, especially children, had better odds
+- Age: Younger passengers, especially children, had better odds
 
 
 ## 🧠 Conclusion
